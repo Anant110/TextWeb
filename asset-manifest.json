@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/TextWeb/static/css/main.9914920d.chunk.css",
+    "main.js": "/TextWeb/static/js/main.e2318e38.chunk.js",
+    "main.js.map": "/TextWeb/static/js/main.e2318e38.chunk.js.map",
+    "runtime~main.js": "/TextWeb/static/js/runtime~main.3f8e8948.js",
+    "runtime~main.js.map": "/TextWeb/static/js/runtime~main.3f8e8948.js.map",
+    "static/js/2.a2b181a3.chunk.js": "/TextWeb/static/js/2.a2b181a3.chunk.js",
+    "static/js/2.a2b181a3.chunk.js.map": "/TextWeb/static/js/2.a2b181a3.chunk.js.map",
+    "static/js/3.940f5f6f.chunk.js": "/TextWeb/static/js/3.940f5f6f.chunk.js",
+    "static/js/3.940f5f6f.chunk.js.map": "/TextWeb/static/js/3.940f5f6f.chunk.js.map",
+    "index.html": "/TextWeb/index.html",
+    "precache-manifest.1dee16b06f5f451aa4a8db85d9a6fa97.js": "/TextWeb/precache-manifest.1dee16b06f5f451aa4a8db85d9a6fa97.js",
+    "service-worker.js": "/TextWeb/service-worker.js",
+    "static/css/main.9914920d.chunk.css.map": "/TextWeb/static/css/main.9914920d.chunk.css.map"
+  }
+}
